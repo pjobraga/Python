@@ -1,2 +1,2 @@
 # Python
- Exercicios praticados em, py
+ Exercicios praticados em py
