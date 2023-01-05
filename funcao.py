@@ -10,6 +10,6 @@ def subtracao(a, b):
     return a - b
 
 
-resultado = subtracao(19, 9)
+resultado = soma(19, 9)
 
 print(resultado)
